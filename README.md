@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Hi there, I'm Youssef Naimi!
 
-<!--
-**Youssef-Naimi/Youssef-Naimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 💻 I'm a 16-year-old teen programmer
+- 🎓 I'm currently a high school student
+- 🌱 I'm passionate about coding and learning new technologies
+- 🔭 I'm currently working on Atmosphere 
+- 🌟 I'm looking to collaborate on open source projects
+- 📫 How to reach me: [email](mailto:p141052906@taalim.ma) or [Discord](https://discordapp.com/users/698802214067634176)
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- 💻 Programming languages: JavaScript, Python, Rust
+- 📚 Frameworks and libraries: React, React Native (expo), Django
+- 💡 Other skills: Math, Web Design, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youssef-Naimi&show_icons=true&theme=radical)
+
+## 💬 Contact Me
+- [Discord](https://discordapp.com/users/698802214067634176)
+- [Email](mailto:p141052906@taalim.ma)
+
+Feel free to reach out to me anytime! Let's connect and build something cool together! 😊
