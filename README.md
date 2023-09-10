@@ -10,7 +10,7 @@
 
 ## 🚀 Skills
 - 💻 Programming languages: JavaScript, Python, Rust
-- 📚 Frameworks and libraries: React, React Native (expo), Django
+- 📚 Frameworks and libraries: React, React Native (expo), Rocket
 - 💡 Other skills: Math, Web Design, Linux
 
 ## 📈 Stats
