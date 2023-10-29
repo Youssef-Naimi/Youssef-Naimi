@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Youssef Naimi!
 
 ## 👨‍💻 About Me
-- 💻 I'm a 16-year-old teen programmer
+- 💻 I'm a 17-year-old teen programmer
 - 🎓 I'm currently a high school student
 - 🌱 I'm passionate about coding and learning new technologies
 - 🔭 I'm currently working on Atmosphere 
