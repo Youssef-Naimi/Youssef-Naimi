@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Youssef Naimi!
 
 ## 👨‍💻 About Me
-- 💻 I'm a 17-year-old teen programmer
-- 🎓 I'm currently a high school student
+- 💻 I'm a 18-year-old programmer
+- 🎓 I'm currently an engineering student
 - 🌱 I'm passionate about coding and learning new technologies
 - 🔭 I'm currently working on Atmosphere 
 - 🌟 I'm looking to collaborate on open source projects
-- 📫 How to reach me: [email](mailto:p141052906@taalim.ma) or [Discord](https://discordapp.com/users/698802214067634176)
+- 📫 How to reach me: [email](mailto:youssefnaimi911@gmail.com) or [Discord](https://discordapp.com/users/698802214067634176)
 
 ## 🚀 Skills
 - 💻 Programming languages: JavaScript, Python, Rust
