@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Youssef Naimi!
 
 ## 👨‍💻 About Me
-- 💻 I'm a 18-year-old programmer
+- 💻 I'm a 19-year-old programmer
 - 🎓 I'm currently an engineering student
 - 🌱 I'm passionate about coding and learning new technologies
 - 🔭 I'm currently working on Atmosphere 
